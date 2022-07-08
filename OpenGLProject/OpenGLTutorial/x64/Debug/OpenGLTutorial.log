@@ -1,0 +1,52 @@
+﻿  D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\
+  stb.cpp
+  light.cpp
+  material.cpp
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(5,144): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(6,137): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(7,148): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(8,140): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(9,149): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(10,147): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(11,164): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(12,145): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(13,131): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(14,148): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(15,148): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\material.cpp(16,152): warning C4305: 'initializing': truncation from 'double' to 'float'
+  mesh.cpp
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\mesh.cpp(47,66): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  model.cpp
+  texture.cpp
+  camera.cpp
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\io\camera.cpp(18,9): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\io\camera.cpp(19,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\io\camera.cpp(58,11): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  joystick.cpp
+  keyboard.cpp
+  mouse.cpp
+  screen.cpp
+  main.cpp
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\graphics\models\cube.hpp(73,30): warning C4018: '<': signed/unsigned mismatch
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\main.cpp(48,7): warning C4101: 'infoLog': unreferenced local variable
+D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\OpenGLTutorial\src\main.cpp(47,6): warning C4101: 'success': unreferenced local variable
+  shader.cpp
+  Generating Code...
+  glad.c
+x64\Debug\camera.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\glad.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\joystick.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\keyboard.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\light.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\material.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\mesh.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\model.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\mouse.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\screen.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\shader.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\stb.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\texture.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLTutorial.vcxproj -> D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\x64\Debug\OpenGLProject.exe
+  D:\Users\Emir Erdogdu\OneDrive\Desktop\OpenGLProject\
